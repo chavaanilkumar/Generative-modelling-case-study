@@ -147,10 +147,6 @@ The project report is also included in the repository.
 
 **Anil Kumar Chava**
 
-Student ID: **24068000**
-
-GitHub: https://github.com/chavaanilkumar/Generative-modelling-case-study
-
 ## Conclusion
 
 This project provided practical experience with Generative Adversarial Networks and showed how the same basic idea can be applied to different types of data.
